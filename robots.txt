@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-onlayn-besplatno.github.io
+Sitemap: https://kazino-onlayn-besplatno.github.io/sitemap.xml
